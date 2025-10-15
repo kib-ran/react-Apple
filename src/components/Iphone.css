@@ -1,0 +1,15 @@
+/* src/components/Iphone.css */
+.iphone-container {
+  padding: 2rem;
+}
+.iphone-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+.iphone-card {
+  border: 1px solid #ccc;
+  padding: 1rem;
+  width: 250px;
+  text-align: center;
+}
