@@ -13,7 +13,7 @@ import TV from "./components/Tv/Tv";
 import Music from "./components/Music/Music";
 import Support from "./components/Support/Support";
 import Search from "./components/Search/Search";
-import Cart from "./components/cart/cart";
+import Cart from "./components/Cart/Cart";
 function App() {
   return (
     <>
